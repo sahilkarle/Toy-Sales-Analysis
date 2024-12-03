@@ -1,4 +1,4 @@
-# Toy_Sales Power BI Report
+# Toy Sales Power BI Report
 
 ## Overview
 The Toy_Sales.pbix file in this repository is a comprehensive Power BI Desktop report that provides in-depth analysis and visualization of toy sales data. It is tailored to assist businesses in understanding sales trends, product performance, and revenue generation within the toy industry.
